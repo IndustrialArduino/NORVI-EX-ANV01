@@ -12,3 +12,6 @@ I2C  Interface with controller
 Input voltage range up to 10V
 Over-voltage protection
 Programmable Gain Amplifier 
+
+Datasheet:   https://drive.google.com/open?id=1Dw0TEA7DU5nt_eyvtU7XrEGxsfI_zMRK&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1hBwR9Gydl_co12W7TDRJyIaMu4WVMKsz&usp=drive_fs
